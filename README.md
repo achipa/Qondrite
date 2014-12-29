@@ -27,6 +27,7 @@ q.js from https://github.com/achipa/q/blob/v1/q.js
 asteroid from https://github.com/achipa/asteroid/blob/master/dist/asteroid.qml.js
 ddp.js from https://github.com/achipa/ddp.js/blob/master/src/ddp.js
 JSONListModel from https://github.com/achipa/qml-utils/blob/master/JSONListModel/JSONListModel.qml
+Log.js from https://github.com/krnekit/qml-utils/blob/master/qml/Log.js
 
 ##Example-usage
 
@@ -39,3 +40,8 @@ Use Qondrite.qml as follows:
         onClose: statusText = "Connection closed";
         onError: statusText = "Error: " + errorString;
     }
+
+Example self-contained Qt project using Qondrite:
+
+https://github.com/achipa/outqross_blog/tree/master/3_OutQross.Meteor_demo
+
