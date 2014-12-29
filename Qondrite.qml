@@ -1,8 +1,8 @@
 import QtQml 2.0
 import Qt.WebSockets 1.0
 
-import "bower_components/asteroid/dist/asteroid.qml.js" as Ast
-import "Log.js" as Log
+import "asteroid/dist/asteroid.qml.js" as Ast
+import "qmlutils/Log.js" as Log
 
 WebSocket {
     property var ceres

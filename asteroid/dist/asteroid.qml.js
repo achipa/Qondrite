@@ -1,8 +1,8 @@
 .pragma library
 
-Qt.include("qrc:/Log.js");
-Qt.include("qrc:/bower_components/ddp.js/src/ddp.js");
-Qt.include("qrc:/bower_components/q/q.js");
+Qt.include("qrc:/qondrite/qmlutils/Log.js");
+Qt.include("qrc:/qondrite/ddp.js/src/ddp.js");
+Qt.include("qrc:/qondrite/q/q.js");
 
 var Asteroid;
 

@@ -23,10 +23,15 @@ Qondrite in turn makes this possible to do in any QML app.
 ##Install
 
 Prerequisites
+
 q.js from https://github.com/achipa/q/blob/v1/q.js
+
 asteroid from https://github.com/achipa/asteroid/blob/master/dist/asteroid.qml.js
+
 ddp.js from https://github.com/achipa/ddp.js/blob/master/src/ddp.js
+
 JSONListModel from https://github.com/achipa/qml-utils/blob/master/JSONListModel/JSONListModel.qml
+
 Log.js from https://github.com/krnekit/qml-utils/blob/master/qml/Log.js
 
 ##Example-usage
