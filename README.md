@@ -20,9 +20,9 @@ Qondrite in turn makes this possible to do in any QML app.
 
 [Blog post on the library](http://mondora.com/#!/post/e2da7bd7ccb774de13324488b4e24abd)
 
-##Background and Demo
+##Background and Demo video (screenshots or it didn't happen)
 
-!VIDEO https://www.youtube.com/watch?v=A9KqDrqYRsc
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/A9KqDrqYRsc/0.jpg)](http://www.youtube.com/watch?v=A9KqDrqYRsc)
 
 ##Install
 
