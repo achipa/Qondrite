@@ -20,9 +20,13 @@ Qondrite in turn makes this possible to do in any QML app.
 
 [Blog post on the library](http://mondora.com/#!/post/e2da7bd7ccb774de13324488b4e24abd)
 
+##Background and Demo
+
+!VIDEO https://www.youtube.com/watch?v=A9KqDrqYRsc
+
 ##Install
 
-Prerequisites
+Dependencies (installed as git subtrees)
 
 q.js from https://github.com/achipa/q/blob/v1/q.js
 
