@@ -1,6 +1,6 @@
 #Qondrite
 
-A QML wrapper for [Asteroid](http://github.com/modora/asteroid), a 
+A QML wrapper for [Asteroid](https://github.com/mondora/asteroid), a 
 javascript client (browser and node) for a Meteor backend.
 
 ##Table of contents
