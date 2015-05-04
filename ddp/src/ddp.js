@@ -65,6 +65,7 @@ var DDP;
         this.readyState = 0;
         this._socket = this._SocketConstructor;
         this._socket.url = this._endpoint;
+        this._socket.active = true;
         this._socket.textMessageReceived.connect(this._on_socket_message.bind(this))
         this._socket.onOpen.connect(this._on_socket_open.bind(this));
         this._socket.onError.connect(this._on_socket_error.bind(this));
